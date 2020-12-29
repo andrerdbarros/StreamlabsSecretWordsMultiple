@@ -33,7 +33,7 @@
     "type": "textbox",
     "value": "('secret', 'word')",
     "label": "Secret Word",
-    "tooltip": "Set your secret words. Place between parenthesis and between quotes and separate by commas  - otherwise will case an error. e.g.: ('secret', 'word')
+    "tooltip": "Set your secret words. Place between parenthesis and between quotes and separate by commas  - otherwise will case an error. e.g.: ('secret', 'word'),
     "group": "General"
   },
     "Payout": {
